@@ -1,2 +1,2 @@
 npm start ile çalıştırılınca alınan çalışıyor bildirimi
-![Ekran görüntüsü](https://github.com/engingul/backend/assets/111301580/d892e451-0b2a-406f-8ca6-286a72ae2582)
+![Ekran görüntüsü 2023-12-15 204250](https://github.com/engingul/backend/assets/111301580/c9d0f508-7517-46b4-8a09-16e6a8c85ce7)
